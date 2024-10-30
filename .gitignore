@@ -1,0 +1,13 @@
+# Ignore build, install, and log directories
+build/
+install/
+log/
+
+# Ignore Python compiled files
+*.pyc
+__pycache__/
+
+# Ignore any other temporary files (e.g., editor/IDE files)
+.vscode/
+.idea/
+*.swp
